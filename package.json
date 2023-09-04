@@ -1,0 +1,25 @@
+{
+  "name": "@cow-sunday/cards-ts",
+  "version": "1.0.0",
+  "description": "Playing Cards in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowCow/cards-ts.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "shadowCow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowCow/cards-ts/issues"
+  },
+  "homepage": "https://github.com/shadowCow/cards-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
